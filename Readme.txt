@@ -1,1 +1,0 @@
-Cross platform travel app using Xamarin.Form
